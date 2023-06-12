@@ -1,1 +1,1 @@
-worker: python3 -m autopic
+worker: python3 -m autopicx
